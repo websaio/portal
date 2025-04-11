@@ -1,0 +1,31 @@
+2025-04-09 17:24:23
+Array
+(
+    [student_id] => 2
+    [payment_date] => 2025-04-09
+    [amount] => 200
+    [payment_type] => tuition
+    [payment_method] => cash
+    [reference_number] => 
+    [notes] => 
+    [created_by] => 1
+    [academic_year_id] => 1
+)
+
+
+2025-04-09 17:25:18
+Array
+(
+    [student_id] => 2
+    [payment_date] => 2025-04-09
+    [amount] => 200
+    [payment_type] => tuition
+    [payment_method] => cash
+    [reference_number] => 
+    [notes] => 
+    [created_by] => 1
+    [academic_year_id] => 1
+)
+
+
+2025-04-09 17:33:06 - API called

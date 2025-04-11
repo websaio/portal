@@ -1,0 +1,145 @@
+[08-Apr-2025 11:04:38 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:109
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(109): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 109
+[08-Apr-2025 11:15:12 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:109
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(109): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 109
+[08-Apr-2025 11:16:56 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:109
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(109): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 109
+[08-Apr-2025 11:17:23 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:109
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(109): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 109
+[08-Apr-2025 11:38:26 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:114
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(114): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 114
+[08-Apr-2025 14:27:27 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:114
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(114): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 114
+[08-Apr-2025 15:21:40 UTC] PHP Fatal error:  Uncaught ArgumentCountError: The number of elements in the type definition string must match the number of bind variables in /home/agreengr/public_html/portal/api/add_payment.php:114
+Stack trace:
+#0 /home/agreengr/public_html/portal/api/add_payment.php(114): mysqli_stmt->bind_param('iisdsssi', '1', '1', '2025-04-08', '500', 'tuition', 'cash', '', '', '1')
+#1 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 114
+[08-Apr-2025 22:22:25 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[08-Apr-2025 22:22:25 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[08-Apr-2025 22:22:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:05:25 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:05:25 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:05:25 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:05:32 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:05:32 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:05:32 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:05:54 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:05:54 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:05:54 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:06:20 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:06:20 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:06:20 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:06:33 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:06:33 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:06:33 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:06:37 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:06:37 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:06:37 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:08:46 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:08:46 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:08:46 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:10:34 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:10:34 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:10:34 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:12:31 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:12:31 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:12:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 10:13:18 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:13:18 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 10:13:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 17:01:30 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 17:01:31 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 17:01:31 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 17:19:52 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 17:19:52 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 17
+[09-Apr-2025 17:19:52 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:49
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 49
+[09-Apr-2025 17:24:23 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 27
+[09-Apr-2025 17:24:23 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 27
+[09-Apr-2025 17:24:23 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 59
+[09-Apr-2025 17:25:18 UTC] PHP Warning:  Undefined global variable $_SESSION in /home/agreengr/public_html/portal/api/add_payment.php on line 27
+[09-Apr-2025 17:25:18 UTC] PHP Warning:  Trying to access array offset on null in /home/agreengr/public_html/portal/api/add_payment.php on line 27
+[09-Apr-2025 17:25:18 UTC] PHP Fatal error:  Uncaught Error: Call to undefined function db_connect() in /home/agreengr/public_html/portal/api/add_payment.php:59
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 59
+[09-Apr-2025 17:30:31 UTC] PHP Warning:  require_once(/home/agreengr/public_html/portal/api/../../shared/db.php): Failed to open stream: No such file or directory in /home/agreengr/public_html/portal/api/add_payment.php on line 11
+[09-Apr-2025 17:30:31 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/agreengr/public_html/portal/api/../../shared/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/agreengr/public_html/portal/api/add_payment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 11
+[09-Apr-2025 17:31:39 UTC] PHP Warning:  require_once(/home/agreengr/public_html/portal/api/../../shared/db.php): Failed to open stream: No such file or directory in /home/agreengr/public_html/portal/api/add_payment.php on line 11
+[09-Apr-2025 17:31:39 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/agreengr/public_html/portal/api/../../shared/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/agreengr/public_html/portal/api/add_payment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 11
+[09-Apr-2025 17:33:06 UTC] PHP Warning:  require_once(/home/agreengr/public_html/portal/api/../../shared/db.php): Failed to open stream: No such file or directory in /home/agreengr/public_html/portal/api/add_payment.php on line 14
+[09-Apr-2025 17:33:06 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/agreengr/public_html/portal/api/../../shared/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/agreengr/public_html/portal/api/add_payment.php:14
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 14
+[09-Apr-2025 17:39:22 UTC] PHP Warning:  require_once(/home/agreengr/public_html/portal/api/../../shared/db.php): Failed to open stream: No such file or directory in /home/agreengr/public_html/portal/api/add_payment.php on line 11
+[09-Apr-2025 17:39:22 UTC] PHP Fatal error:  Uncaught Error: Failed opening required '/home/agreengr/public_html/portal/api/../../shared/db.php' (include_path='.:/opt/cpanel/ea-php84/root/usr/share/pear') in /home/agreengr/public_html/portal/api/add_payment.php:11
+Stack trace:
+#0 {main}
+  thrown in /home/agreengr/public_html/portal/api/add_payment.php on line 11

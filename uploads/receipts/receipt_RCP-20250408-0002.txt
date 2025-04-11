@@ -1,0 +1,15 @@
+RECEIPT
+===============================
+Receipt Number: RCP-20250408-0002
+Date: April 08, 2025
+
+Student: test test
+Student ID: ST259434
+Grade/Section: Grade 1 - A
+Academic Year: 2024-2025
+
+PAYMENT DETAILS
+===============================
+Amount: $500.00
+Type: Tuition
+Method: Cash
